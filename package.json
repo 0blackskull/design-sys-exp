@@ -1,0 +1,22 @@
+{
+  "name": "design-sys-exp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajutk/design-sys-exp.git"
+  },
+  "author": "bajutk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bajutk/design-sys-exp/issues"
+  },
+  "homepage": "https://github.com/bajutk/design-sys-exp#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
