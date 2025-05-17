@@ -16,7 +16,8 @@
     "moduleResolution": "bundler",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@cn/*": ["./src/components/ui/*"]
     }
   },
   "include": ["vite.config.mts"]

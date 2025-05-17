@@ -4,8 +4,10 @@
     "module": "esnext",
     "moduleResolution": "bundler",
     "baseUrl": ".",
+    "jsx": "react-jsx",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@cn/*": ["./src/components/ui/*"]
     }
   }
 }
